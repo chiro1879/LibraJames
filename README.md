@@ -6,15 +6,15 @@ I'm like lebron james if he was a github repo
 
 Debian/Ubuntu:
 ```
-sudo apt install libgtk-4-dev
+sudo apt install libgtk-3-dev
 ```
 Fedora:
 ```
-sudo dnf install gtk4-devel
+sudo dnf install gtk3-devel
 ```
 Arch:
 ```
-sudo pacman -S gtk4
+sudo pacman -S gtk3
 ```
 
 ## Compiling
