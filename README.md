@@ -1,5 +1,6 @@
 # LibraJames
 I'm like lebron james if he was a github repo
+</br><img src="https://github.com/user-attachments/assets/12e2ee6f-c3d8-4f69-a7cc-9f63467e35bb" alt="drawing" width="500"/>
 
 ## Installing Dependencies 
 
